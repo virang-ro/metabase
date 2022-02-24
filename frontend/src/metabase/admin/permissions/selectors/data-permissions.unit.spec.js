@@ -1,7 +1,7 @@
 import {
   getDataFocusSidebar,
   getGroupsDataPermissionEditor,
-} from "./data-permissions";
+} from ".";
 import { normalizedMetadata } from "./data-permissions.unit.spec.fixtures";
 
 const initialPermissions = {

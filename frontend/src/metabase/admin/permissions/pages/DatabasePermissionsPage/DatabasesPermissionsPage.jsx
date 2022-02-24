@@ -11,7 +11,7 @@ import {
   getDataFocusSidebar,
   getIsLoadingDatabaseTables,
   getLoadingDatabaseTablesError,
-} from "../../selectors/data-permissions";
+} from "../../selectors";
 import { updateDataPermission } from "../../permissions";
 
 import { PermissionsSidebar } from "../../components/PermissionsSidebar";
